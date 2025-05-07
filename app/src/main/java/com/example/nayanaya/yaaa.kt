@@ -113,5 +113,6 @@ fun LoginBody(innerPadding: PaddingValues) {
 @Preview
 @Composable
 fun PreviewLogin() {
-    LoginBody(PaddingValues(0.dp))
+    LoginBody(PaddingValues(1.dp))
 }
+//yoooo sup
